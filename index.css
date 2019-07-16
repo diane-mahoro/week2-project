@@ -1,0 +1,44 @@
+.container{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.col-md-8{
+    padding-right: 40px;
+    transform: scale(1.4);
+}
+.col-md-4{
+    margin-top: 200px;
+}
+.col-md-4 p{
+    font-size: 30px;
+    font-style: italic;
+}
+h1{
+    color: green;
+    word-spacing: 0.1em;
+    font-style: italic;
+}
+.col-md-8{
+    margin:0;
+}
+button{
+    background-color: green;
+    border-radius: 2px;
+}
+button:hover{
+    background-color: black;
+}
+button a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    padding: 5px;
+    font-size: 20px;
+}
+button a:hover{
+    color: white;
+    text-decoration: none;
+}
+.co{
+    margin-top: 70px;
+}
