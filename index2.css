@@ -16,5 +16,10 @@ form{
     width: 80%;
 }
 .A{
-    margin-top: -0.9999em;
+    margin-top: -0.9em;
+    margin-left: 5px;
+}
+.b{
+    margin-top: 10px;
+    margin-left: 10px;
 }
