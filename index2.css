@@ -23,3 +23,23 @@ form{
     margin-top: 10px;
     margin-left: 10px;
 }
+button{
+    background-color: green;
+    border-radius: 2px;
+    margin-left: 250px;
+    margin-bottom: 10px;
+}
+button:hover{
+    background-color: black;
+}
+button a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    padding: 15px;
+    font-size: 20px;
+}
+button a:hover{
+    color: white;
+    text-decoration: none;
+}
