@@ -33,8 +33,11 @@ alert(gender);
 alert("day of week = " +dayOfWeek);
 if(gander=='' || d=='' || m=='' || y=''){
 alert("please insert something");
-}
-else */if (dayOfWeek == 0 && gender =='male'){
+}*/
+if(input=''|| gender ==''){
+    alert("please enter the values");
+    }
+else if (dayOfWeek == 0 && gender =='male'){
  document.getElementById('A2').innerHTML ='Kwasi'
 }
 else if(dayOfWeek == 1 && gender=='male'){
