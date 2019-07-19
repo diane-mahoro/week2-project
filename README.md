@@ -19,3 +19,4 @@ On its land page you can find there some links like ([twitter](https://twitter.c
 -Bootstram files.
 
 ##|Active link of this page| [AKANSPOT App]()|
+  --------------------------------------------
