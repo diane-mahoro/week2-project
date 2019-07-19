@@ -1,10 +1,10 @@
 function dayofweek(){
     var input =document.getElementById('A1').value;
-    var x= new Date( input );
-    var y=x.getFullYear();
-    var m=x.getMonth();
+    x= new Date( input );
+    y=x.getFullYear();
+    m=x.getMonth();
     m=m+1;
-    var d=x.getDay();
+    d=x.getDay();
     var c= parseInt(y)/100 +1;
     var day= ( ( (c/4) -2*c-1) + ((5*y/4) ) + ((26*(m+1)/10)) + d ) % 7;
 var dayOfWeek= parseInt(day);

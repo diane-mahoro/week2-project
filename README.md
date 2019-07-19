@@ -6,8 +6,8 @@ AKANSPOT App is an application used in mobile phones, laptops, or anyother devic
 
 On its land page you can find there some links like ([twitter](https://twitter.com/)) where you can follow me on twitter, instagram,etc.
 
-![home](Screenshot from 2019-07-19 11-37-54.png)
-<img src="Screenshot from 2019-07-19 11-37-54.png" width="80%" height="40%">
+**_THIS IS an IMAGE OF A FORM YOU FILL IN TO GET YOUR AKAN NAME FROM THE APLICATION_**
+<img src="Screenshot from 2019-07-19 11-37-54.png" width="60%" height="30%">
 
 ##**_Tools in bluiding this app_**
 
