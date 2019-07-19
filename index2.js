@@ -41,13 +41,13 @@ else if (dayOfWeek == 0 && gender =='male'){
  document.getElementById('A2').innerHTML ='Kwasi'
 }
 else if(dayOfWeek == 1 && gender=='male'){
-    document.getElementById('A2').innerHTML = 'Kwado';
+    document.getElementById('A2').innerHTML = 'You were born on monday, Your akan name is Kwado';
 }
 else if(dayOfWeek == 2 && gender=='male'){
-    document.getElementById('A2').innerHTML ='Kwabena'
+    document.getElementById('A2').innerHTML ='You were born on monday, Your akan name is Kwabena'
 }
 else if(dayOfWeek == 3 && gender=='male'){
-    document.getElementById('A2').innerHTML ='Kwafi'
+    document.getElementById('A2').innerHTML ='You were born on monday, Your akan name is Kwafi'
 }
 else if(dayOfWeek == 4 && gender=='male'){
     document.getElementById('A2').innerHTML ='Yaw';
