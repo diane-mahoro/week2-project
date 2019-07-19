@@ -15,10 +15,10 @@ alert("the century is " +c);
 function dayofweek(){
     var input =document.getElementById('A1').value;
     var x= new Date( input );
-    y=x.getFullYear();
-    m=x.getMonth();
+    var y=x.getFullYear();
+    var m=x.getMonth();
     m=m+1;
-    d=x.getDay();
+    var d=x.getDay();
    /* function century(){
         return parseInt(y/100) +1;
     }*/
