@@ -5,6 +5,7 @@ function dayofweek(){
     m=x.getMonth();
     m=m+1;
     d=x.getDay();
+    // alert(d);
     var c= parseInt(y)/100 +1;
     var day= ( ( (c/4) -2*c-1) + ((5*y/4) ) + ((26*(m+1)/10)) + d ) % 7;
 var dayOfWeek= parseInt(day);
@@ -23,7 +24,7 @@ var gender= document.getElementById('A4').value;
 if(input=''|| gender ==''){
     alert("please enter the values");
     }
-else if ( d == 7 && gender =='male'){
+else if ( d == 0 && gender =='male'){
  document.getElementById('A2').innerHTML ='Your born day is sunday, Your akan name is Kwasi'
 }
 else if(d == 1 && gender=='male'){
@@ -44,7 +45,7 @@ else if(d == 5 && gender=='male'){
 else if(d == 6 && gender=='male'){
     document.getElementById('A2').innerHTML ='Your born day is saturday, Your akan name is Kwame';
 }
-else if(d == 7 && gender=='female'){
+else if(d == 0 && gender=='female'){
     document.getElementById('A2').innerHTML ='Your born day is sunday, Your akan name is Akosua';
 }
 else if(d == 1 && gender=='female'){

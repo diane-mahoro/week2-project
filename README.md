@@ -3,7 +3,6 @@
 ##**_Description_**
 
 AKANSPOT App is an application used in mobile phones, laptops, or anyother devices. it was invated based on Ghanan culuture of naming children after the day they are born. so it helps to find out a person's Akan name.
-
 On its land page you can find there some links like ([twitter](https://twitter.com/)) where you can follow me on twitter, instagram,etc.
 
 **_THIS IS an IMAGE OF A FORM YOU FILL IN TO GET YOUR AKAN NAME FROM THE APLICATION_**
@@ -19,5 +18,5 @@ On its land page you can find there some links like ([twitter](https://twitter.c
 
 -Bootstram files.
 
-##|Active link of this page| [AKANSPOT App]()|
-  --------------------------------------------
+##|Active link of this page| [AKANSPOT App](https://diane-mahoro.github.io/week2-project/)|
+  -----------------------------------------------------------------------------------------
